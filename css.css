@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Akronim', cursive;
+
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+}
+
+#nh{
+    color: goldenrod;
+}
+#w{
+    font-family: 'Oswald', sans-serif;
+}
+#e{
+    box-sizing: border-box;
+}
+#hw{
+    width:40%;
+    float: left;
+    margin-left: 2%;
+    padding-left:2% ;
+}
+#hw2{
+    width:40%;
+    float:right;
+    margin-right:2% ;
+    padding-right: 2%;
+}
+#im{
+    width:100%;
+    margin-top: 5%;
+    
+}
+#bc{
+    background-image: url("New Folder/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+    padding-bottom: 60px;
+}
+#button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(204, 144, 66), rgba(255, 187, 0, 0.87));
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: whitesmoke;
+    font-weight:bold;
+    font-family: 'Squada One', cursive;
+}
+#hw3{
+    
+    width:40%;
+    float: left;
+    margin-left: 2%;
+    padding-left:2% ;
+}
+#im2{
+    width:100%;
+    margin-top: 5%;
+
+}
+#hw4{
+    width:40%;
+    float:right;
+    margin-right:2% ;
+    padding-right: 2%;
+}
+#bc2{
+
+    background-image: url("New Folder/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#b1{
+    border: 0px solid);
+    width: 40%;
+    float:left;
+    margin-left: 70px;
+    
+    padding: 5px;
+    border-radius: 2px;
+    box-shadow: 10px 10px 40px gray;
+    height:60%;
+    border-left: 5px solid;
+    border-image:linear-Gradient(180deg,orange,tomato );
+    border-image-slice:1;
+}
+#bc3{
+    background-image: url("New Folder/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#b2{
+    border: 0px solid;
+    width: 40%;
+    float:right;
+    margin-right: 70px;
+    
+    padding: 5px;
+    border-radius: 2px;
+    box-shadow: 10px 10px 40px gray;
+    height:60%;
+    border-left: 5px solid;
+    border-image:linear-Gradient(180deg,rgb(90, 125, 221),rgb(8, 58, 167));
+    border-image-slice: 1;
+}
+footer{
+    text-align:center;
+    color: rgb(109, 104, 104);
+}
